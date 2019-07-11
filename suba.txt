@@ -1,2 +1,4 @@
-Name: Subashree
-Roll no:2017242025
+Name    :Subashree
+Roll no :2017242025
+Age     :19
+Semester:5
